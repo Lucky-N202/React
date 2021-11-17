@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "simple chat-server using express and socket.io",
+  "main": "index.js",
+  "repository": "git remote add origin https://github.com/dylut2000/react-simple-chat.git",
+  "license": "MIT"
+}
